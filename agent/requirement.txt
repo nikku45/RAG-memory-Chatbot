@@ -1,0 +1,5 @@
+livekit
+openai
+mem0ai
+python-dotenv
+requests
